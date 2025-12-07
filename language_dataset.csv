@@ -1,0 +1,805 @@
+text,language
+"Hello",English
+"How are you?",English
+"Good morning",English
+"Hi there",English
+"Greetings",English
+"I am fine",English
+"See you later",English
+"Have a nice day",English
+"What's up?",English
+"Nice to meet you",English
+"Good evening",English
+"How’s everything?",English
+"Long time no see",English
+"Take care",English
+"What's new?",English
+"Happy to see you",English
+"Welcome",English
+"Have a good night",English
+"Cheers",English
+"I'm doing well",English
+"Thank you",English
+"Sorry",English
+"Excuse me",English
+"No problem",English
+"That's great",English
+"I understand",English
+"I don't know",English
+"Can you help me?",English
+"See you soon",English
+"Have fun",English
+"Bonjour",French
+"Comment ça va?",French
+"Bonne journée",French
+"Salut",French
+"Je vais bien",French
+"À bientôt",French
+"Quel âge as-tu?",French
+"Enchanté",French
+"Merci",French
+"Bonsoir",French
+"Bonne nuit",French
+"Comment allez-vous?",French
+"Je suis content de te voir",French
+"Bienvenue",French
+"À plus tard",French
+"Félicitations",French
+"Excusez-moi",French
+"De rien",French
+"Pas de problème",French
+"C'est super",French
+"Je comprends",French
+"Je ne sais pas",French
+"Peux-tu m’aider?",French
+"Bon courage",French
+"Amuse-toi bien",French
+"À demain",French
+"Salut tout le monde",French
+"Comment ça se passe?",French
+"Fais attention",French
+"Hola",Spanish
+"¿Cómo estás?",Spanish
+"Buenos días",Spanish
+"Buenas tardes",Spanish
+"¿Qué tal?",Spanish
+"Me llamo Juan",Spanish
+"Encantado",Spanish
+"Hasta luego",Spanish
+"Gracias",Spanish
+"Buenas noches",Spanish
+"¿Cómo te va?",Spanish
+"Mucho gusto",Spanish
+"Bienvenido",Spanish
+"Qué alegría verte",Spanish
+"Nos vemos",Spanish
+"Cuídate",Spanish
+"Lo siento",Spanish
+"Disculpa",Spanish
+"De nada",Spanish
+"No hay problema",Spanish
+"Qué bien",Spanish
+"Entiendo",Spanish
+"No sé",Spanish
+"¿Me puedes ayudar?",Spanish
+"Hasta pronto",Spanish
+"Diviértete",Spanish
+"Feliz día",Spanish
+"Buen trabajo",Spanish
+"Hallo",German
+"Wie geht's?",German
+"Guten Morgen",German
+"Hallo zusammen",German
+"Ich bin gut",German
+"Bis später",German
+"Schön dich zu sehen",German
+"Guten Tag",German
+"Danke",German
+"Guten Abend",German
+"Gute Nacht",German
+"Wie läuft's?",German
+"Freut mich, dich zu sehen",German
+"Willkommen",German
+"Bis bald",German
+"Glückwunsch",German
+"Entschuldigung",German
+"Kein Problem",German
+"Das ist toll",German
+"Ich verstehe",German
+"Ich weiß nicht",German
+"Können Sie mir helfen?",German
+"Viel Spaß",German
+"Auf Wiedersehen",German
+"Pass auf dich auf",German
+"Schönen Tag noch",German
+"Bis morgen",German
+"Vielen Dank",German
+"Ciao",Italian
+"Come stai?",Italian
+"Buongiorno",Italian
+"Salve",Italian
+"Sto bene",Italian
+"Arrivederci",Italian
+"Piacere di conoscerti",Italian
+"Grazie",Italian
+"Buona giornata",Italian
+"Buonasera",Italian
+"Buona notte",Italian
+"Come va?",Italian
+"Felice di vederti",Italian
+"Benvenuto",Italian
+"A dopo",Italian
+"Congratulazioni",Italian
+"Mi scusi",Italian
+"Prego",Italian
+"Nessun problema",Italian
+"È fantastico",Italian
+"Capisco",Italian
+"Non lo so",Italian
+"Puoi aiutarmi?",Italian
+"Divertiti",Italian
+"Ci vediamo presto",Italian
+"Stammi bene",Italian
+"Grazie mille",Italian
+"A domani",Italian
+"Ben fatto",Italian
+"Olá",Portuguese
+"Como você está?",Portuguese
+"Bom dia",Portuguese
+"Boa tarde",Portuguese
+"E aí?",Portuguese
+"Meu nome é João",Portuguese
+"Prazer em conhecê-lo",Portuguese
+"Obrigado",Portuguese
+"Tenha um bom dia",Portuguese
+"Boa noite",Portuguese
+"Como vai?",Portuguese
+"Muito prazer",Portuguese
+"Bem-vindo",Portuguese
+"Que bom te ver",Portuguese
+"Até logo",Portuguese
+"Cuide-se",Portuguese
+"Desculpe",Portuguese
+"Com licença",Portuguese
+"De nada",Portuguese
+"Sem problema",Portuguese
+"Isto é ótimo",Portuguese
+"Eu entendo",Portuguese
+"Não sei",Portuguese
+"Você pode me ajudar?",Portuguese
+"Divirta-se",Portuguese
+"Até breve",Portuguese
+"Obrigado(a) muito",Portuguese
+"Até amanhã",Portuguese
+"Bom trabalho",Portuguese
+"Здравствуйте",Russian
+"Как дела?",Russian
+"Доброе утро",Russian
+"Привет всем",Russian
+"Я в порядке",Russian
+"Увидимся позже",Russian
+"Рад вас видеть",Russian
+"Добрый день",Russian
+"Спасибо",Russian
+"Добрый вечер",Russian
+"Спокойной ночи",Russian
+"Как поживаете?",Russian
+"Приятно познакомиться",Russian
+"Добро пожаловать",Russian
+"До скорого",Russian
+"Поздравляю",Russian
+"Извините",Russian
+"Пожалуйста",Russian
+"Не проблема",Russian
+"Это здорово",Russian
+"Я понимаю",Russian
+"Я не знаю",Russian
+"Можете мне помочь?",Russian
+"Хорошего дня",Russian
+"До завтра",Russian
+"Берегите себя",Russian
+"Большое спасибо",Russian
+"Хорошей работы",Russian
+"你好",Chinese
+"你怎么样？",Chinese
+"早上好",Chinese
+"嗨",Chinese
+"我很好",Chinese
+"再见",Chinese
+"很高兴见到你",Chinese
+"欢迎",Chinese
+"晚上好",Chinese
+"晚安",Chinese
+"最近怎么样？",Chinese
+"多谢",Chinese
+"没关系",Chinese
+"对不起",Chinese
+"请帮帮我",Chinese
+"没问题",Chinese
+"我懂了",Chinese
+"我不知道",Chinese
+"你能帮我吗？",Chinese
+"祝你有美好的一天",Chinese
+"保重",Chinese
+"祝你好运",Chinese
+"太好了",Chinese
+"再见了",Chinese
+"一路顺风",Chinese
+"开心点",Chinese
+"欢迎回来",Chinese
+"干得好",Chinese
+"こんにちは",Japanese
+"お元気ですか？",Japanese
+"おはよう",Japanese
+"こんにちは皆さん",Japanese
+"元気です",Japanese
+"また後で",Japanese
+"お会いできて嬉しいです",Japanese
+"ようこそ",Japanese
+"こんばんは",Japanese
+"おやすみ",Japanese
+"最近どう？",Japanese
+"ありがとう",Japanese
+"どういたしまして",Japanese
+"すみません",Japanese
+"手伝ってくれますか？",Japanese
+"問題ない",Japanese
+"わかりました",Japanese
+"知りません",Japanese
+"助けてください",Japanese
+"良い一日を",Japanese
+"気をつけて",Japanese
+"頑張って",Japanese
+"さようなら",Japanese
+"またね",Japanese
+"楽しんで",Japanese
+"良くやった",Japanese
+"مرحباً",Arabic
+"كيف حالك؟",Arabic
+"صباح الخير",Arabic
+"مرحباً جميعاً",Arabic
+"أنا بخير",Arabic
+"أراك لاحقاً",Arabic
+"سعيد بلقائك",Arabic
+"أهلاً وسهلاً",Arabic
+"مساء الخير",Arabic
+"تصبح على خير",Arabic
+"كيف الأمور؟",Arabic
+"شكراً",Arabic
+"على الرحب والسعة",Arabic
+"عفواً",Arabic
+"آسف",Arabic
+"لا توجد مشكلة",Arabic
+"هذا رائع",Arabic
+"أنا أفهم",Arabic
+"لا أعرف",Arabic
+"هل يمكنك مساعدتي؟",Arabic
+"أهلاً بك مرة أخرى",Arabic
+"اعتنِ بنفسك",Arabic
+"أتمنى لك يوماً سعيداً",Arabic
+"حظاً سعيداً",Arabic
+"إلى اللقاء",Arabic
+"إلى غد",Arabic
+"عمل ممتاز",Arabic
+"नमस्ते",Hindi
+"कैसे हो?",Hindi
+"सुप्रभात",Hindi
+"हैलो",Hindi
+"मैं ठीक हूँ",Hindi
+"फिर मिलेंगे",Hindi
+"आपसे मिलकर ख़ुशी हुई",Hindi
+"स्वागत है",Hindi
+"शुभ सन्ध्या",Hindi
+"शुभ रात्रि",Hindi
+"क्या चल रहा है?",Hindi
+"धन्यवाद",Hindi
+"कोई बात नहीं",Hindi
+"माफ़ कीजिए",Hindi
+"कृपया मेरी मदद करें",Hindi
+"समस्या नहीं",Hindi
+"मैं समझ गया",Hindi
+"मुझे नहीं पता",Hindi
+"क्या आप मेरी मदद कर सकते हैं?",Hindi
+"शुभ दिन",Hindi
+"अपना ध्यान रखें",Hindi
+"शुभकामनाएँ",Hindi
+"अलविदा",Hindi
+"जल्दी मिलेंगे",Hindi
+"मज़ा करो",Hindi
+"शानदार काम",Hindi
+"خوش آمدید",Urdu
+"آپ کیسے ہیں؟",Urdu
+"صبح بخیر",Urdu
+"ہیلو سب",Urdu
+"میں ٹھیک ہوں",Urdu
+"پھر ملیں گے",Urdu
+"آپ سے مل کر خوشی ہوئی",Urdu
+"خوش آمدید",Urdu
+"شب بخیر",Urdu
+"اچھا دن ہو",Urdu
+"کیا حال ہے؟",Urdu
+"شکریہ",Urdu
+"کوئی بات نہیں",Urdu
+"معاف کیجئے",Urdu
+"کیا آپ میری مدد کریں گے؟",Urdu
+"کوئی مسئلہ نہیں",Urdu
+"یہ بہت اچھا ہے",Urdu
+"مجھے سمجھ آیا",Urdu
+"مجھے نہیں معلوم",Urdu
+"فول خوش آئند ہو",Urdu
+"دیکھو پھر ملیں گے",Urdu
+"خیال رکھنا",Urdu
+"اچھا دن!",Urdu
+"بہت شکریہ",Urdu
+"الوداع",Urdu
+"مزہ کریں",Urdu
+"بہت اچھا کیا",Urdu
+"ধন্যবাদ",Bengali
+"কেমন আছো?",Bengali
+"শুভ সকাল",Bengali
+"হ্যালো",Bengali
+"আমি ভালো আছি",Bengali
+"পরে দেখা হবে",Bengali
+"আপনাে দেখা পেরে ভালো লাগলো",Bengali
+"স্বাগতম",Bengali
+"শুভ সন্ধ্যা",Bengali
+"শুভ রাত্রি",Bengali
+"সব ঠিক আছে?",Bengali
+"ধন্যবাদ",Bengali
+"কোনো সমস্যা নেই",Bengali
+"দুঃখিত",Bengali
+"দয়া করে আমার সাহায্য করুন",Bengali
+"ঠিক আছে",Bengali
+"আমি বুঝি",Bengali
+"আমি জানি না",Bengali
+"তুমি কি আমায় সাহায্য করতে পারো?",Bengali
+"শুভ দিন",Bengali
+"খেয়াল রেখো",Bengali
+"সুন্দর থাকো",Bengali
+"আলবিদা",Bengali
+"শীঘ্রই দেখা হবে",Bengali
+"মজা করো",Bengali
+"চমৎকার কাজ",Bengali
+"Merhaba",Turkish
+"Nasılsın?",Turkish
+"Günaydın",Turkish
+"Selam herkese",Turkish
+"İyiyim",Turkish
+"Sonra görüşürüz",Turkish
+"Seni görmek güzel",Turkish
+"Hoş geldin",Turkish
+"İyi akşamlar",Turkish
+"İyi geceler",Turkish
+"Ne haber?",Turkish
+"Teşekkür ederim",Turkish
+"Rica ederim",Turkish
+"Affedersiniz",Turkish
+"Lütfen yardım eder misiniz?",Turkish
+"Sorun değil",Turkish
+"Bu harika",Turkish
+"Anlıyorum",Turkish
+"Bilmiyorum",Turkish
+"Yardım edebilir misin?",Turkish
+"İyi günler",Turkish
+"Kendine iyi bak",Turkish
+"Başarılar",Turkish
+"Hoşça kal",Turkish
+"Görüşürüz",Turkish
+"Teşekkürler",Turkish
+"Tebrikler",Turkish
+"Goedemorgen",Dutch
+"Hoe gaat het?",Dutch
+"Hallo allemaal",Dutch
+"Ik ben goed",Dutch
+"Tot later",Dutch
+"Leuk je te zien",Dutch
+"Welkom",Dutch
+"Goedenavond",Dutch
+"Goedenacht",Dutch
+"Hoe gaat het met je?",Dutch
+"Bedankt",Dutch
+"Graag gedaan",Dutch
+"Sorry",Dutch
+"Kun je me helpen?",Dutch
+"Geen probleem",Dutch
+"Dat is geweldig",Dutch
+"Ik begrijp het",Dutch
+"Ik weet het niet",Dutch
+"Tot ziens",Dutch
+"Fijne dag",Dutch
+"Pas goed op jezelf",Dutch
+"Veel plezier",Dutch
+"Tot gauw",Dutch
+"Goed gedaan",Dutch
+"Welterusten",Dutch
+"Leuk om je te zien",Dutch
+"Bedankt allemaal",Dutch
+"God morgen",Swedish
+"Hur mår du?",Swedish
+"Hej allihop",Swedish
+"Jag mår bra",Swedish
+"Vi ses senare",Swedish
+"Skönt att se dig",Swedish
+"Välkommen",Swedish
+"God kväll",Swedish
+"God natt",Swedish
+"Hur går det?",Swedish
+"Tack",Swedish
+"Varsågod",Swedish
+"Förlåt",Swedish
+"Kan du hjälpa mig?",Swedish
+"Inga problem",Swedish
+"Det är bra",Swedish
+"Jag förstår",Swedish
+"Jag vet inte",Swedish
+"Hejdå",Swedish
+"Ha en bra dag",Swedish
+"Ta hand om dig",Swedish
+"Ha det så bra",Swedish
+"Bra jobbat",Swedish
+"Väl bekomme",Swedish
+"Hej då allihopa",Swedish
+"Dzień dobry",Polish
+"Jak się masz?",Polish
+"Witajcie",Polish
+"U mnie wszystko w porządku",Polish
+"Do zobaczenia",Polish
+"Miło cię widzieć",Polish
+"Witamy",Polish
+"Dobry wieczór",Polish
+"Dobranoc",Polish
+"Co słychać?",Polish
+"Dziękuję",Polish
+"Proszę",Polish
+"Przepraszam",Polish
+"Czy możesz mi pomóc?",Polish
+"Nie ma problemu",Polish
+"To świetnie",Polish
+"Rozumiem",Polish
+"Nie wiem",Polish
+"Na razie",Polish
+"Miłego dnia",Polish
+"Trzymaj się",Polish
+"Miłego dnia wszystkim",Polish
+"Dobry wieczór wszystkim",Polish
+"Brawo",Polish
+"Witajcie wszyscy",Polish
+"Xin chào",Vietnamese
+"Bạn có khỏe không?",Vietnamese
+"Chúc buổi sáng tốt lành",Vietnamese
+"Chào mọi người",Vietnamese
+"Tôi khỏe",Vietnamese
+"Hẹn gặp lại",Vietnamese
+"Rất vui được gặp bạn",Vietnamese
+"Chào mừng",Vietnamese
+"Chúc buổi tối vui vẻ",Vietnamese
+"Chúc ngủ ngon",Vietnamese
+"Bạn thế nào?",Vietnamese
+"Cảm ơn",Vietnamese
+"Không có gì",Vietnamese
+"Xin lỗi",Vietnamese
+"Bạn có thể giúp tôi không?",Vietnamese
+"Không vấn đề gì",Vietnamese
+"Tuyệt quá",Vietnamese
+"Tôi hiểu",Vietnamese
+"Tôi không biết",Vietnamese
+"Tạm biệt",Vietnamese
+"Chúc một ngày tốt lành",Vietnamese
+"Chăm sóc bản thân nhé",Vietnamese
+"Chúc vui vẻ",Vietnamese
+"Hẹn sớm gặp lại",Vietnamese
+"Tuyệt vời",Vietnamese
+"Thật tốt",Vietnamese
+"Sawasdee",Thai
+"คุณเป็นอย่างไรบ้าง?",Thai
+"อรุณสวัสดิ์",Thai
+"สวัสดีทุกคน",Thai
+"ฉันสบายดี",Thai
+"ไว้เจอกันใหม่",Thai
+"ยินดีที่ได้รู้จัก",Thai
+"ยินดีต้อนรับ",Thai
+"สวัสดีตอนเย็น",Thai
+"ราตรีสวัสดิ์",Thai
+"เป็นอย่างไรบ้าง?",Thai
+"ขอบคุณ",Thai
+"ไม่เป็นไร",Thai
+"ขอโทษ",Thai
+"ช่วยฉันหน่อยได้ไหม?",Thai
+"ไม่มีปัญหา",Thai
+"ดีมาก",Thai
+"ฉันเข้าใจ",Thai
+"ฉันไม่รู้",Thai
+"ลาก่อน",Thai
+"ขอให้เป็นวันที่ดี",Thai
+"ดูแลตัวเองด้วย",Thai
+"ขอให้โชคดี",Thai
+"ยินดีด้วย",Thai
+"เจอกันใหม่",Thai
+"ทำได้ดีมาก",Thai
+"Γειά σου",Greek
+"Τι κάνεις;",Greek
+"Καλημέρα",Greek
+"Γειά σε όλους",Greek
+"Είμαι καλά",Greek
+"Τα λέμε αργότερα",Greek
+"Χαίρομαι που σε βλέπω",Greek
+"Καλώς ήρθες",Greek
+"Καλησπέρα",Greek
+"Καληνύχτα",Greek
+"Τι νέα;",Greek
+"Ευχαριστώ",Greek
+"Παρακαλώ",Greek
+"Συγγνώμη",Greek
+"Μπορείς να με βοηθήσεις;",Greek
+"Δεν υπάρχει πρόβλημα",Greek
+"Αυτό είναι υπέροχο",Greek
+"Καταλαβαίνω",Greek
+"Δεν ξέρω",Greek
+"Τα λέμε",Greek
+"Καλή μέρα",Greek
+"Πρόσεχε",Greek
+"Καλή τύχη",Greek
+"Χαίρομαι που σε γνώρισα",Greek
+"Καλή συνέχεια",Greek
+"Καλή δουλειά",Greek
+"שָׁלוֹם",Hebrew
+"מה שלומך?",Hebrew
+"בוקר טוב",Hebrew
+"שלום לכולם",Hebrew
+"אני בסדר",Hebrew
+"להתראות מאוחר יותר",Hebrew
+"נעים מאוד",Hebrew
+"ברוך הבא",Hebrew
+"ערב טוב",Hebrew
+"לילה טוב",Hebrew
+"מה נשמע?",Hebrew
+"תודה",Hebrew
+"על לא דבר",Hebrew
+"סליחה",Hebrew
+"האם אתה יכול לעזור לי?",Hebrew
+"אין בעיה",Hebrew
+"זה נהדר",Hebrew
+"אני מבין",Hebrew
+"אני לא יודע",Hebrew
+"להתראות",Hebrew
+"יום נעים",Hebrew
+"שמור על עצמך",Hebrew
+"בהצלחה",Hebrew
+"נעים להכיר אותך",Hebrew
+"עבודה טובה",Hebrew
+"До побачення",Ukrainian
+"Як справи?",Ukrainian
+"Доброго ранку",Ukrainian
+"Привіт всім",Ukrainian
+"Я добре",Ukrainian
+"До зустрічі",Ukrainian
+"Радий вас бачити",Ukrainian
+"Ласкаво просимо",Ukrainian
+"Доброго вечора",Ukrainian
+"На добраніч",Ukrainian
+"Як ти?",Ukrainian
+"Дякую",Ukrainian
+"Немає за що",Ukrainian
+"Вибач",Ukrainian
+"Чи можете мені допомогти?",Ukrainian
+"Без проблем",Ukrainian
+"Це чудово",Ukrainian
+"Я розумію",Ukrainian
+"Я не знаю",Ukrainian
+"Бувай",Ukrainian
+"Гарного дня",Ukrainian
+"Доглядай за собою",Ukrainian
+"Щасти",Ukrainian
+"Радий зустрічі",Ukrainian
+"Гарна робота",Ukrainian
+"Xin chào lại",Indonesian
+"Apa kabar?",Indonesian
+"Selamat pagi",Indonesian
+"Halo semuanya",Indonesian
+"Aku baik-baik saja",Indonesian
+"Sampai jumpa",Indonesian
+"Senang bertemu Anda",Indonesian
+"Selamat datang",Indonesian
+"Selamat malam",Indonesian
+"Selamat tidur",Indonesian
+"Bagaimana kabarmu?",Indonesian
+"Terima kasih",Indonesian
+"Sama-sama",Indonesian
+"Maaf",Indonesian
+"Bisa tolong bantu saya?",Indonesian
+"Tidak masalah",Indonesian
+"Itu luar biasa",Indonesian
+"Saya mengerti",Indonesian
+"Saya tidak tahu",Indonesian
+"Sampai nanti",Indonesian
+"Semoga harimu bagus",Indonesian
+"Jaga diri",Indonesian
+"Semoga sukses",Indonesian
+"Senang berkenalan",Indonesian
+"Pekerjaan bagus",Indonesian
+"Terima kasih banyak",Indonesian
+"Sampai besok",Indonesian
+"Selamat bekerja",Indonesian
+"Salam",Malay
+"Apa khabar?",Malay
+"Selamat pagi",Malay
+"Hai semua",Malay
+"Saya sihat",Malay
+"Jumpa nanti",Malay
+"Seronok jumpa awak",Malay
+"Selamat datang",Malay
+"Selamat petang",Malay
+"Selamat malam",Malay
+"Bagaimana keadaan anda?",Malay
+"Terima kasih",Malay
+"Sama-sama",Malay
+"Maaf",Malay
+"Boleh tolong bantu saya?",Malay
+"Tidak mengapa",Malay
+"Hebat",Malay
+"Saya faham",Malay
+"Saya tidak tahu",Malay
+"Selamat tinggal",Malay
+"Selamat hari",Malay
+"Jaga diri",Malay
+"Semoga berjaya",Malay
+"Gembira berjumpa anda",Malay
+"Kerja bagus",Malay
+"Terima kasih banyak",Malay
+"Sampai esok",Malay
+"Selamat bekerja",Malay
+"Jambo",Swahili
+"Habari gani?",Swahili
+"Asubuhi njema",Swahili
+"Hujambo wote",Swahili
+"Niko sawa",Swahili
+"Tutaonana baadaye",Swahili
+"Nafurahi kukuona",Swahili
+"Karibu",Swahili
+"Usiku mwema",Swahili
+"Lala salama",Swahili
+"Habari leo?",Swahili
+"Asante",Swahili
+"Karibu tena",Swahili
+"Samahani",Swahili
+"Tafadhali nisaidie",Swahili
+"Hakuna shida",Swahili
+"Hiyo ni nzuri",Swahili
+"Ninaelewa",Swahili
+"Sijui",Swahili
+"Tutaonana",Swahili
+"Furahia siku yako",Swahili
+"Jitunze",Swahili
+"Bahati nzuri",Swahili
+"Nafurahi kukutana nawe",Swahili
+"Kazi nzuri",Swahili
+"Asante sana",Swahili
+"Kwa heri",Swahili
+"سلام",Persian
+"حال شما چطور است؟",Persian
+"صبح بخیر",Persian
+"درود بر همه",Persian
+"من خوبم",Persian
+"بعدا می بینمت",Persian
+"خوشحالم از دیدارت",Persian
+"خوش آمدی",Persian
+"عصر بخیر",Persian
+"شب بخیر",Persian
+"چه خبر؟",Persian
+"ممنون",Persian
+"خواهش می‌کنم",Persian
+"ببخشید",Persian
+"می‌تونی کمکم کنی؟",Persian
+"مشکلی نیست",Persian
+"این عالی است",Persian
+"می‌فهمم",Persian
+"نمی‌دانم",Persian
+"خداحافظ",Persian
+"روز خوبی داشته باشی",Persian
+"مراقب خودت باش",Persian
+"موفق باشی",Persian
+"خوشحالم که دیدمت",Persian
+"کار عالی",Persian
+"Спасибо",Czech
+"Jak se máš?",Czech
+"Dobré ráno",Czech
+"Ahoj všichni",Czech
+"Jsem v pohodě",Czech
+"Uvidíme se později",Czech
+"Rád tě vidím",Czech
+"Vítejte",Czech
+"Dobrý večer",Czech
+" Dobrou noc",Czech
+"Jak to jde?",Czech
+"Děkuji",Czech
+"Není zač",Czech
+"Omlouvám se",Czech
+"Můžeš mi pomoci?",Czech
+"Žádný problém",Czech
+"To je skvělé",Czech
+"Rozumím",Czech
+"Já nevím",Czech
+"Ahoj",Czech
+"Hezký den",Czech
+"Opatruj se",Czech
+"Hodně štěstí",Czech
+"Rád jsem tě poznal",Czech
+"Skvělá práce",Czech
+"Dzięń dobry",Hungarian
+"Hogy vagy?",Hungarian
+"Jó reggelt",Hungarian
+"Szia mindenkinek",Hungarian
+"Jól vagyok",Hungarian
+"Viszlát később",Hungarian
+"Örülök, hogy látlak",Hungarian
+"Isten hozott",Hungarian
+"Jó estét",Hungarian
+"Jó éjszakát",Hungarian
+"Hogy megy?",Hungarian
+"Köszönöm",Hungarian
+"Szívesen",Hungarian
+"Bocsánat",Hungarian
+"Tudnál segíteni?",Hungarian
+"Nincs probléma",Hungarian
+"Ez nagyszerű",Hungarian
+"Értem",Hungarian
+"Nem tudom",Hungarian
+"Viszlát",Hungarian
+"Legyen szép napod",Hungarian
+"Tarts magadra",Hungarian
+"Sok szerencsét",Hungarian
+"Örülök, hogy megismertelek",Hungarian
+"Jó munka",Hungarian
+"Bună ziua",Romanian
+"Ce mai faci?",Romanian
+"Bună dimineața",Romanian
+"Bună tuturor",Romanian
+"Sunt bine",Romanian
+"Pe curând",Romanian
+"Mă bucur să te văd",Romanian
+"Bine ai venit",Romanian
+"Bună seara",Romanian
+"Noapte bună",Romanian
+"Ce faci?",Romanian
+"Mulțumesc",Romanian
+"Cu plăcere",Romanian
+"Scuză‑mă",Romanian
+"Poți să mă ajuți?",Romanian
+"Nicio problemă",Romanian
+"E grozav",Romanian
+"Înțeleg",Romanian
+"Nu știu",Romanian
+"Pa",Romanian
+"O zi frumoasă",Romanian
+"Ai grijă",Romanian
+"Mult noroc",Romanian
+"Mă bucur că ne‑am întâlnit",Romanian
+"Bravo",Romanian
+"Selamat",Malay
+"Salam sejahtera",Malay
+"Selamat pagi",Malay
+"Hai semua",Malay
+"Saya sihat",Malay
+"Jumpa nanti",Malay
+"Seronok jumpa awak",Malay
+"Selamat datang",Malay
+"Selamat petang",Malay
+"Selamat malam",Malay
+"Bagaimana keadaan anda?",Malay
+"Terima kasih",Malay
+"Sama‑sama",Malay
+"Maaf",Malay
+"Boleh tolong bantu saya?",Malay
+"Tidak mengapa",Malay
+"Hebat",Malay
+"Saya faham",Malay
+"Saya tidak tahu",Malay
+"Selamat tinggal",Malay
+"Selamat hari",Malay
+"Jaga diri",Malay
+"Semoga berjaya",Malay
+"Gembira berjumpa anda",Malay
+"Kerja bagus",Malay
+"Terima kasih banyak",Malay
+"Sampai esok",Malay
+"Selamat bekerja",Malay
