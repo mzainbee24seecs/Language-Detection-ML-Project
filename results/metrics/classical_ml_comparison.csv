@@ -1,0 +1,5 @@
+Model,Train Accuracy,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Training Time (s)
+Linear SVM,0.9996,0.9807,0.9836,0.9801,0.9816,20.89
+Random Forest,0.9963,0.9684,0.9745,0.9683,0.9706,316.21
+Logistic Regression,0.9996,0.9807,0.9848,0.9804,0.9823,87.89
+Naive Bayes,0.9833,0.9710,0.9808,0.9654,0.9706,0.02
