@@ -16,8 +16,8 @@ Author: [Your Name]
 """
 
 __version__ = '1.0.0'
-__author__ = '[Your Name]'
-__email__ = '[Your Email]'
+__author__ = 'Muhammad Zain'
+__email__ = 'mzain.bee24seecs'
 
 from . import data_preprocessing
 from . import classical_ml
@@ -32,3 +32,4 @@ __all__ = [
     'evaluation',
     'utils'
 ]
+
