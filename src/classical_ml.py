@@ -10,7 +10,7 @@ This module implements classical ML algorithms including:
 
 Includes hyperparameter tuning using GridSearchCV and cross-validation.
 
-Author: [Your Name]
+Author: Muhammad Zain
 Course: CS 470 - Machine Learning
 Project: Language Detection (Multi-class Classification)
 """
@@ -504,3 +504,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
