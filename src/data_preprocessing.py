@@ -4,7 +4,6 @@ Data Preprocessing Module for Language Detection
 This module handles loading, cleaning, and preprocessing text data for language detection.
 Includes functions for feature extraction (TF-IDF) for classical ML models.
 
-Author: [Your Name]
 Course: CS 470 - Machine Learning
 Project: Language Detection (Multi-class Classification)
 """
@@ -395,3 +394,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
