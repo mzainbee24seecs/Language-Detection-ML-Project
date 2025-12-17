@@ -3,7 +3,6 @@ Utility Functions for Language Detection Project
 =================================================
 Common utility functions used across the project.
 
-Author: [Your Name]
 Course: CS 470 - Machine Learning
 Project: Language Detection (Multi-class Classification)
 """
@@ -113,3 +112,4 @@ def save_results_summary(results: dict, filepath: str):
 
 if __name__ == "__main__":
     print("Utility functions loaded successfully!")
+
