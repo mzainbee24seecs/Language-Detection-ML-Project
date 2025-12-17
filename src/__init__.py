@@ -11,8 +11,6 @@ Modules:
     - deep_learning: Deep learning models using PyTorch
     - evaluation: Model evaluation and visualization
     - utils: Utility functions
-
-Author: [Your Name]
 """
 
 __version__ = '1.0.0'
@@ -32,4 +30,5 @@ __all__ = [
     'evaluation',
     'utils'
 ]
+
 
