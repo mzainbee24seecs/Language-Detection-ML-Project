@@ -6,7 +6,6 @@ This module implements neural network architectures for language detection:
 - BiLSTM Network
 - Hybrid CNN-LSTM Architecture
 
-Author: [Your Name]
 Course: CS 470 - Machine Learning
 Project: Language Detection (Multi-class Classification)
 """
@@ -562,3 +561,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
