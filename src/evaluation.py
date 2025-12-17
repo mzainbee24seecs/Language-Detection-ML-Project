@@ -5,7 +5,6 @@ Comprehensive evaluation metrics and visualization for both classical ML
 and deep learning models. Includes confusion matrix, classification report,
 ROC curves, and statistical significance testing.
 
-Author: [Your Name]
 Course: CS 470 - Machine Learning
 Project: Language Detection (Multi-class Classification)
 """
@@ -474,3 +473,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
