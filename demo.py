@@ -165,7 +165,7 @@ def main():
     print("LANGUAGE DETECTION PROJECT DEMO")
     print("="*60)
     print("\nCS 470 - Machine Learning | Fall 2025")
-    print("Student: Abubakar")
+    print("Student: Zain")
     print("Model: Linear SVM (98.58% accuracy)")
     print("="*60)
     
@@ -217,3 +217,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
