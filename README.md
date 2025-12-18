@@ -2,7 +2,7 @@
 
 **CS 470: Machine Learning - Fall 2025**  
 **Members:** Muhammad Zain, Mubashir Qurashi 
-**CMS ID:**502138
+**CMS ID:**502138 , 509662
 **Project ID:** 24 - Language Detection  
 **Difficulty:** Easy  
 **Instructor:** Dr. Sajjad Hussain  
@@ -306,3 +306,4 @@ Key dependencies (see `requirements.txt` for versions):
 - **Framework:** PyTorch, scikit-learn
 
 ---
+
